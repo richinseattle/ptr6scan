@@ -4,16 +4,16 @@ This toolchain allows the collection of datasets on assigned IPv6 reverse DNS
 records. Furthermore, we include various tools for the subsequent analysis of
 the obtained data. As this is academic code (read: horrific code quality, but
 it works (for certain values of working)) we strongly advise everyone to
-implement this *themself*. If you are unable to do so, you probably should not
+implement this **themself**. If you are unable to do so, you probably should not
 play with this. :-)
 
 ## Publications
 
 You can find a more in-depth description of this work in the following publication and talk:
 
-*Something From Nothing (There): Collecting Global IPv6 Datasets From DNS*, Tobias Fiebig, Kevin Borgolte, Shuang Hao, Christopher Kruegel, Giovanni Vigna, accepted for PAM (Passiv and Active Measurement) Conference 2017, Sydney
+**Something From Nothing (There): Collecting Global IPv6 Datasets From DNS**, *Tobias Fiebig, Kevin Borgolte, Shuang Hao, Christopher Kruegel, Giovanni Vigna*, accepted for PAM (Passiv and Active Measurement) Conference 2017, Sydney
 
-*You can -j REJECT but you can not hide: Global scanning of the IPv6 Internet*, Tobias Fiebig, Kevin Borgolte, Shuang Hao, Christopher Kruegel, Giovanni Vigna, 33C3---33rd Chaos Communication Congress 2017, Hamburg
+**You can -j REJECT but you can not hide: Global scanning of the IPv6 Internet**, *Tobias Fiebig, Kevin Borgolte, Shuang Hao, Christopher Kruegel, Giovanni Vigna*, 33C3---33rd Chaos Communication Congress 2017, Hamburg
 
 # Setup
 The supplied tools are mostly ugly Python 2.6 and even more ugly shell. Please
