@@ -80,6 +80,9 @@ Funny tool eating output JSON from stdin, building a .dot graph description file
 for stdout with errors on stderr. Best visualized with Gephi. (https://gephi.org/)
 Beware: This code just barely works, and is extremly ugly.
 
+## plot.py
+Script plotting nibble frequency, reads output JSON from a file.
+
 # Licence
 The supplied tools are provided under a 2-clause BSD licence; Please see the
 individual files for the specific licence.
